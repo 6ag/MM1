@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - VehicleBarrier
+  - EntrancePoint
+  - NormalBarrier
+  - DeskBarrier
+  - Joystick
+  - KnapsackItem
+  - KnapsackItemBox
+  - Teammate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: WorldMap
+    uniqueID: 3430289651
+    locked: 0
+  - name: TerrainDown
+    uniqueID: 1819701503
+    locked: 0
+  - name: TerrainTop
+    uniqueID: 4183938219
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3123024533
+    locked: 0

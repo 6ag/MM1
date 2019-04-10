@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleCollection>
+    <AssetBundles>
+      <AssetBundle Name="Animation/ChariotRepairman/IdleDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/IdleLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/IdleRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/IdleUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/WalkingDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/WalkingLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/WalkingRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/ChariotRepairman/WalkingUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/AnimatorController" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/Dead" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/IdleDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/IdleLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/IdleRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/IdleUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/WalkingDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/WalkingLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/WalkingRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Player/WalkingUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/IdleDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/IdleLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/IdleRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/IdleUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/WalkingDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/WalkingLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/WalkingRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Salesclerk/WalkingUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/IdleDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/IdleLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/IdleRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/IdleUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/WalkingDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/WalkingLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/WalkingRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Template/WalkingUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/IdleDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/IdleLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/IdleRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/IdleUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/WalkingDown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/WalkingLeft" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/WalkingRight" LoadType="0" Packed="False" />
+      <AssetBundle Name="Animation/Women1/WalkingUp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Camera/MainCamera" LoadType="0" Packed="False" />
+      <AssetBundle Name="Configs/DefaultConfig" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Goods" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/HumanEquip" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Item" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Map" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Music" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/NPC" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Role" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Scene" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Sound" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/Store" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/UIForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/UISound" LoadType="0" Packed="False" />
+      <AssetBundle Name="DataTables/VehicleEquip" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/Characters/Npcs/ChariotRepairman" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/Characters/Npcs/Salesclerk" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/Characters/Npcs/Women1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/Characters/Roles/Player" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Temp/Temp" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Temp/TempTileMap" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTown" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownBar" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownDrMinch" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownHunterUnion" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownInnFloor1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownInnFloor2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownPlayerEquip" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownTankFloor1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownTankFloor2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/Town/Laduo/LaduoTownTeleportation" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap10" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap11" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap12" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap13" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap14" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap15" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap16" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap3" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap4" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap5" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap6" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap7" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap8" LoadType="0" Packed="False" />
+      <AssetBundle Name="Entities/TileMaps/WorldMap/WorldMap9" LoadType="0" Packed="False" />
+      <AssetBundle Name="Fonts/Font_JCY" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/7m2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/ai" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/bar" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/boss2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/buki2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/danjon" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/dare" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/doukutsu2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/fact" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/field" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/gomesu2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/hopure3" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/kaeru" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/minchi" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/mm_n_noa" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/mm1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/mmbat2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/mmend" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/nagare2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/name" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/noa" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/open" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/shi2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/tank4" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/tore2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Music/town" LoadType="0" Packed="False" />
+      <AssetBundle Name="Prefabs/Common/Box" LoadType="0" Packed="False" />
+      <AssetBundle Name="Scenes/Battle" LoadType="0" Packed="False" />
+      <AssetBundle Name="Scenes/Game" LoadType="0" Packed="False" />
+      <AssetBundle Name="Scenes/GameFramework" LoadType="0" Packed="False" />
+      <AssetBundle Name="Scenes/Launch" LoadType="0" Packed="False" />
+      <AssetBundle Name="Scenes/Test" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x17-Encounter" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x17-Encounter_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x17-Encounter_s" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x17-Encounter_sb" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x18-Shot_1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x19-Explosion_Lo" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1A-MachineGun_1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1B-Bite" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1C-Missile_1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1D-Missile_2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1E-Laser" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1E-Laser_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x1F-NA_1" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x20-NA_2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x21-Rifle" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x22-Fire" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x23-Ice" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x24-Drop" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x25-Appear" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x26-Collapse" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x27-Cut" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x28-Escape" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x29-NA_3" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2A-Explosion_Hi" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2B-Shot_Wave" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2B-Shot_Wave_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2C-NA_4" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2D-NA_5" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2E-Electronic" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x2F-Shot_Acid" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x30-NA_6" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x31-Broken" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x32-Broken" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x33-Ice" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x34-NA_7" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x35-Drop" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x37-Takeoff" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x38-Poision" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x39-MachineGun_2" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3A-ATM" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3B-Stairs" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3C-Noah" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3D-Door" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3E-Enter" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x3F-NA_8" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x40-NA_8" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x41-Tank" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x41-Tank_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x42-NA_9" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x43-Open" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x44-NA_10" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x45-JukeBox" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x46-Shift" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x47-Alarm" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x48-AmorBroken" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x49-Explosion_Lo" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4A-Drop" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4B-Earthquake" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4C-NA_11" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4D-Shift" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4E-NA_13" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x4F-Repair" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x50-NA_14" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x50-NA_14_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x51-TeleportSent" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x52-ATMroll" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x52-ATMroll_b" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x53-TeleportArrive" LoadType="0" Packed="False" />
+      <AssetBundle Name="Sounds/0x54-Defeat" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/CharacterForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/DialogForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/InputCountForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/GameStartForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/KnapsackForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/ItemInfoForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/MainForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/ShopForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIForms/SplashForm" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIItems/KnapsackItem" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UIItems/ShopCell" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1000" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1003" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1009" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_101" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1010" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1017" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1019" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1022" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1029" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1030" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1034" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1035" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1058" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1062" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1063" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1066" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1091" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1107" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1109" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1129" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1136" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1138" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1139" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1153" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1154" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1158" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1159" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1160" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1161" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1162" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1164" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1165" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1166" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1167" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1170" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1171" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1173" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1174" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1309" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1311" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1327" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1346" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1354" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1355" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1372" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1385" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1390" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1410" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1480" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1489" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_150" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1502" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1528" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_1537" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_16" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_167" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_169" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_173" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_174" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_175" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_176" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_189" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_193" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_201" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_202" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_205" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_206" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_207" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_21" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_22" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_23" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_233" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_268" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_282" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_285" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_286" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_31" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_311" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_33" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_34" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_344" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_345" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_346" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_347" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_366" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_37" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_370" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_380" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_381" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_382" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_383" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_384" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_385" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_39" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_414" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_419" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_42" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_43" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_435" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_436" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_503" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_505" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_506" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_512" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_561" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_568" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_577" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_580" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_583" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_587" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_590" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_593" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_601" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_602" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_603" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_614" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_625" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_637" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_642" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_644" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_645" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_648" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_707" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_714" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_75" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_77" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_90" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_95" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_952" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_959" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_972" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_973" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_974" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_975" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_976" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_983" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_998" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Items/items_999" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Logos/LogoImage" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Logos/LogoName" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Window/StatusBar" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Window/Window" LoadType="0" Packed="False" />
+      <AssetBundle Name="UI/UISprites/Window/Windows" LoadType="0" Packed="False" />
+    </AssetBundles>
+    <Assets>
+      <Asset Guid="01656a3cc6a91d248a1b32fc14166fcf" AssetBundleName="Animation/Player/IdleUp" />
+      <Asset Guid="022056e87c42d4a32a3c7ecdabe5a52a" AssetBundleName="UI/UISprites/Items/items_1502" />
+      <Asset Guid="022cb93570bb54c7b970885ed1e3f3c8" AssetBundleName="UI/UISprites/Items/items_207" />
+      <Asset Guid="025d0d1ac808e444692d7ab4ad6fbc0d" AssetBundleName="DataTables/Store" />
+      <Asset Guid="043c12e3768a948d9ba3c05fc98585b2" AssetBundleName="UI/UISprites/Items/items_419" />
+      <Asset Guid="047aa0a74bfbe4f6b906f2cca0ca9221" AssetBundleName="UI/UISprites/Items/items_999" />
+      <Asset Guid="04804ea81f8824b85b05e006625b6e00" AssetBundleName="Entities/TileMaps/Temp/TempTileMap" />
+      <Asset Guid="04d7dde7615d71b4db1a0c8d67a62e95" AssetBundleName="UI/UIForms/DialogForm" />
+      <Asset Guid="04ffd659b26c76747b5855665dfd7ed7" AssetBundleName="Entities/Characters/Npcs/Salesclerk" />
+      <Asset Guid="05da8345492fe9544a709f15337d1237" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownBar" />
+      <Asset Guid="072fb4edbb9f34748a4c2f3d6e802325" AssetBundleName="Sounds/0x50-NA_14" />
+      <Asset Guid="0785e527a69a24c9e9da3905582761c1" AssetBundleName="UI/UISprites/Items/items_1372" />
+      <Asset Guid="08057c8f0904730458bab410fa1ed601" AssetBundleName="Animation/Player/IdleLeft" />
+      <Asset Guid="0867abb63a9b54d60a6b021c3ea43516" AssetBundleName="UI/UISprites/Items/items_1537" />
+      <Asset Guid="088c0cde894e74e37a8c093c3d05288c" AssetBundleName="DataTables/UIForm" />
+      <Asset Guid="0a246cadccbd3f44784d40386304c653" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownTankFloor1" />
+      <Asset Guid="0a9dad2e4235bc24daf9796b2e6eed44" AssetBundleName="Prefabs/Common/Box" />
+      <Asset Guid="0c3ca875aa3566a40ab3221ee8a4a90b" AssetBundleName="UI/UIForms/ShopForm" />
+      <Asset Guid="0d10968c2bafaea47a241b26ed933ca9" AssetBundleName="Music/buki2" />
+      <Asset Guid="0e3090b87723e4b6db3949fd44d00348" AssetBundleName="UI/UISprites/Items/items_1022" />
+      <Asset Guid="0e69dd1b6831c4c088e27814748fa874" AssetBundleName="UI/UIForms/KnapsackForm" />
+      <Asset Guid="0fea5521490764d3396afd7c1770535e" AssetBundleName="UI/UISprites/Items/items_1003" />
+      <Asset Guid="105578aeb80864a789ed73abb564c455" AssetBundleName="UI/UISprites/Items/items_34" />
+      <Asset Guid="10bbcc1b8a41a314b881f89bc155b4c7" AssetBundleName="UI/UISprites/Logos/LogoName" />
+      <Asset Guid="10f3c0c76abed4ed2a963d0dbaee9e83" AssetBundleName="Animation/Player/WalkingDown" />
+      <Asset Guid="112b510457a4c48ae98d36f235096d70" AssetBundleName="UI/UISprites/Items/items_645" />
+      <Asset Guid="1188f7c62f6c33d4199db03ad5482791" AssetBundleName="Music/mmbat2" />
+      <Asset Guid="11e26d48a6677024c8b15f28508ba4e0" AssetBundleName="Sounds/0x24-Drop" />
+      <Asset Guid="13716bb2053714ee98a646fe21b9e8f8" AssetBundleName="UI/UIForms/CharacterForm" />
+      <Asset Guid="13c82909d2ba0f941a1a775805f381db" AssetBundleName="Music/bar" />
+      <Asset Guid="150db01c16b43454baca2b0f429add1e" AssetBundleName="Sounds/0x45-JukeBox" />
+      <Asset Guid="15676734a5cd14d9ba9113791c3c3470" AssetBundleName="UI/UISprites/Items/items_193" />
+      <Asset Guid="181538a33557bfe47aec438e11a0f447" AssetBundleName="Sounds/0x53-TeleportArrive" />
+      <Asset Guid="192bef66156cbb94796708cb23b06d86" AssetBundleName="Sounds/0x3E-Enter" />
+      <Asset Guid="19bb18be781e64909b31ba144c39a1e0" AssetBundleName="UI/UISprites/Items/items_370" />
+      <Asset Guid="19e9ff16af3fe49b088906286739d640" AssetBundleName="UI/UISprites/Items/items_998" />
+      <Asset Guid="1a8588d9e78cd4af8953ce4932fe5fe9" AssetBundleName="UI/UISprites/Items/items_150" />
+      <Asset Guid="1aeb270b9830449429e67ac2fc1b6477" AssetBundleName="Sounds/0x27-Cut" />
+      <Asset Guid="1cd7c142b6981324a9bebbd2539ab492" AssetBundleName="Sounds/0x32-Broken" />
+      <Asset Guid="1e81b7bd3d1f39840bb77ab5d42fc552" AssetBundleName="Sounds/0x48-AmorBroken" />
+      <Asset Guid="1f5bb747ce6b3bd4d9a78d620c6974e7" AssetBundleName="Sounds/0x40-NA_8" />
+      <Asset Guid="1f6be33df1ec74039a8a7155fd8e5c7a" AssetBundleName="DataTables/Music" />
+      <Asset Guid="1f78d57647e9c4bf884db3b958850cbd" AssetBundleName="UI/UIItems/KnapsackItem" />
+      <Asset Guid="204445fb801dd5f41bbe4c575fdebb4a" AssetBundleName="Animation/Salesclerk/WalkingRight" />
+      <Asset Guid="2064b4c6969814d64af8469dcdc7b9e8" AssetBundleName="UI/UISprites/Items/items_382" />
+      <Asset Guid="209562042b52840f0be618f646d45fe0" AssetBundleName="UI/UISprites/Items/items_436" />
+      <Asset Guid="210075e49db28fb43a59f83722e0932d" AssetBundleName="Sounds/0x43-Open" />
+      <Asset Guid="211ac904455091e44a5209bba80e6a94" AssetBundleName="Sounds/0x26-Collapse" />
+      <Asset Guid="226198e506181d74ab5ed9baf8080a5d" AssetBundleName="Sounds/0x1A-MachineGun_1" />
+      <Asset Guid="22b1f6d4fc302d34784c405f88d846c7" AssetBundleName="Sounds/0x29-NA_3" />
+      <Asset Guid="22e18a27194ea914094d0df8cfe9ce2f" AssetBundleName="Sounds/0x3A-ATM" />
+      <Asset Guid="231ee98a2b61445a88aad20c8d6e92b5" AssetBundleName="UI/UISprites/Items/items_33" />
+      <Asset Guid="239156b44bacf4f3dbf8451c3e8ea073" AssetBundleName="DataTables/VehicleEquip" />
+      <Asset Guid="24e2c67bfc67b4e989c878fde8c27896" AssetBundleName="UI/UISprites/Items/items_603" />
+      <Asset Guid="25035a1587cf441a4af64b993a357688" AssetBundleName="UI/UISprites/Items/items_976" />
+      <Asset Guid="258c2a0c144a249e28485986f1ce65be" AssetBundleName="UI/UISprites/Items/items_503" />
+      <Asset Guid="262d36591f5c64407932d1f99c8928ae" AssetBundleName="Animation/ChariotRepairman/WalkingDown" />
+      <Asset Guid="266bcf1786fb14625b95662192723ddc" AssetBundleName="UI/UISprites/Items/items_1129" />
+      <Asset Guid="26df156e676ab421daff985d8957f9b7" AssetBundleName="UI/UISprites/Items/items_707" />
+      <Asset Guid="27a27eb8f938043cbb1c11d5cc10555c" AssetBundleName="UI/UISprites/Items/items_973" />
+      <Asset Guid="296f1e5a3173442b5b123bf0b0eb7914" AssetBundleName="UI/UISprites/Items/items_174" />
+      <Asset Guid="2af53e5b0eec31644a3a2c07cdbf0659" AssetBundleName="Sounds/0x4A-Drop" />
+      <Asset Guid="2b51a267118b446249fdc831ac9133f4" AssetBundleName="UI/UISprites/Items/items_1489" />
+      <Asset Guid="2b9e8c00f1872e440898a0386baeb0a4" AssetBundleName="Sounds/0x2A-Explosion_Hi" />
+      <Asset Guid="2eeb2b3d0d70efb40a6560191c44127f" AssetBundleName="Music/name" />
+      <Asset Guid="2eecd58d6c0bb4196ae7449b447f1baf" AssetBundleName="UI/UISprites/Items/items_642" />
+      <Asset Guid="2fd9abba5f80a904fb6bd889a1984c0e" AssetBundleName="Sounds/0x41-Tank_b" />
+      <Asset Guid="2fe06609d405446868548dcfdcd94bcd" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap9" />
+      <Asset Guid="311cdf053f69ce44186ff22bc9adf90b" AssetBundleName="Sounds/0x49-Explosion_Lo" />
+      <Asset Guid="3243c8089b1604fa2a8e273e8ba5dcc6" AssetBundleName="UI/UISprites/Items/items_648" />
+      <Asset Guid="32bd409800b746641af4cb397b50c74d" AssetBundleName="Animation/Salesclerk/IdleLeft" />
+      <Asset Guid="32cec46894252465cb91fd3ce1a61750" AssetBundleName="Animation/Template/IdleUp" />
+      <Asset Guid="32d260f82a3d240f596de5284236a826" AssetBundleName="UI/UISprites/Items/items_1174" />
+      <Asset Guid="333257382a63d4415bf419d28110a22b" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap10" />
+      <Asset Guid="338cdf9f5444b68499abb168d7fd2407" AssetBundleName="UI/UIForms/GameStartForm" />
+      <Asset Guid="33cf7062a85217948a0c39770518bf6b" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownTeleportation" />
+      <Asset Guid="34ed2719b63073544a94884b2c2570a9" AssetBundleName="Sounds/0x3F-NA_8" />
+      <Asset Guid="35638360f3c22443c862a43f03962b84" AssetBundleName="Animation/ChariotRepairman/IdleUp" />
+      <Asset Guid="35dfb7e65a304438794f9e9906d51939" AssetBundleName="Animation/Women1/IdleRight" />
+      <Asset Guid="3644ea93c5ea74d9b9380315e17da719" AssetBundleName="Animation/Template/WalkingLeft" />
+      <Asset Guid="3654bd6de7a0f7a4484f3dbd76803453" AssetBundleName="UI/UISprites/Window/Window" />
+      <Asset Guid="3685061a1b69f4e8ca54eca53bd40eb6" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTown" />
+      <Asset Guid="3707205ae7586044d98d5b7bc50a3782" AssetBundleName="Music/doukutsu2" />
+      <Asset Guid="37243afa689e51a49a9e389968cb1edd" AssetBundleName="Sounds/0x4C-NA_11" />
+      <Asset Guid="3a7529b38d6ff43b79631f9671ed4d9e" AssetBundleName="UI/UISprites/Items/items_714" />
+      <Asset Guid="3a92690a1de15134f8887ecfc7102cfb" AssetBundleName="Sounds/0x2D-NA_5" />
+      <Asset Guid="3aa0ec3512967bb4b8630e98e524d2bc" AssetBundleName="Sounds/0x1B-Bite" />
+      <Asset Guid="3b385df53f766504b91caee2b201078d" AssetBundleName="Sounds/0x47-Alarm" />
+      <Asset Guid="3ef50bb6dcb324a82862e52122df1294" AssetBundleName="UI/UISprites/Items/items_344" />
+      <Asset Guid="3fbcb8d0bed9c8347b3df9808ce399a4" AssetBundleName="Scenes/Launch" />
+      <Asset Guid="4234e20e2a1281b4599005417403dcc7" AssetBundleName="Music/hopure3" />
+      <Asset Guid="425d78ca4cfb2ea45b1eac53e129cdc7" AssetBundleName="Sounds/0x3C-Noah" />
+      <Asset Guid="42ec3e7df4e164711ad5481cf5b46354" AssetBundleName="UI/UISprites/Items/items_173" />
+      <Asset Guid="43d99721b575ee4448b7f3cfa00f8fe8" AssetBundleName="Animation/Salesclerk/WalkingLeft" />
+      <Asset Guid="44b39b3b840928d4fb207bd6ed5ae6a8" AssetBundleName="Sounds/0x1E-Laser" />
+      <Asset Guid="44c8db52241385c45bbb14a1718f17bf" AssetBundleName="Configs/DefaultConfig" />
+      <Asset Guid="4575ad0299e1849e4a49b202072a743e" AssetBundleName="UI/UISprites/Items/items_1030" />
+      <Asset Guid="4667a6010adb14490bce3175b8e19c2b" AssetBundleName="UI/UISprites/Items/items_972" />
+      <Asset Guid="46a3758ca57cc46929129ef18aa70163" AssetBundleName="UI/UISprites/Items/items_1309" />
+      <Asset Guid="48ab28556e32d4edca6262fe39c89da8" AssetBundleName="Animation/Women1/WalkingDown" />
+      <Asset Guid="49cabdf06e2874474970b88fd2ea39ba" AssetBundleName="UI/UISprites/Items/items_1062" />
+      <Asset Guid="4aa8f215804e944b1814db94300611b1" AssetBundleName="UI/UISprites/Items/items_1346" />
+      <Asset Guid="4af93b10298e04fb7bffc3ff847415fb" AssetBundleName="UI/UISprites/Items/items_167" />
+      <Asset Guid="4d21d8e441e80eb48ab8a0931d4a9022" AssetBundleName="Sounds/0x33-Ice" />
+      <Asset Guid="4e030eca6e6ea478596dfeca0a15e1bd" AssetBundleName="UI/UISprites/Items/items_1063" />
+      <Asset Guid="4e4cc268b5f164a50a5978c68a97d894" AssetBundleName="UI/UISprites/Items/items_561" />
+      <Asset Guid="5121065a3d6584b429b8898a4fbc6850" AssetBundleName="Animation/Salesclerk/WalkingUp" />
+      <Asset Guid="5270882456dd61b40b5c57d458612d24" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownTankFloor2" />
+      <Asset Guid="53e86f1d806ce4139bac5e1dabbed2ad" AssetBundleName="Animation/ChariotRepairman/IdleRight" />
+      <Asset Guid="54b98b88510d345389f338f1ed89e0a3" AssetBundleName="UI/UISprites/Items/items_286" />
+      <Asset Guid="56094f30480c54d25a9d5e676fe1ba3f" AssetBundleName="UI/UISprites/Items/items_1159" />
+      <Asset Guid="565b3fa2f7d4e4279b002276c3589e39" AssetBundleName="UI/UIForms/InputCountForm" />
+      <Asset Guid="56ad9227697644e03a1c6522e99e913a" AssetBundleName="UI/UISprites/Items/items_169" />
+      <Asset Guid="56fd6cac4e85a408893121c2c9fce7b7" AssetBundleName="UI/UISprites/Items/items_577" />
+      <Asset Guid="580805d360cfe4eb8b3fe3c2bc3b26ca" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap7" />
+      <Asset Guid="589e5cb5eaa2d497b834b8b03c0c7a43" AssetBundleName="Animation/Player/WalkingLeft" />
+      <Asset Guid="5923a48f043884f21afdca950e140755" AssetBundleName="UI/UISprites/Items/items_959" />
+      <Asset Guid="5ae9a1279e1bd4ead8eef52e97a5c036" AssetBundleName="UI/UISprites/Items/items_311" />
+      <Asset Guid="5b3de862bb61e492e9f311db179a11a4" AssetBundleName="UI/UISprites/Items/items_1480" />
+      <Asset Guid="5bd1cb9af3b744b578f97aa7a0ede8b9" AssetBundleName="UI/UISprites/Items/items_75" />
+      <Asset Guid="5cc2fb9f20a28427789332b55813d20a" AssetBundleName="Animation/Women1/IdleLeft" />
+      <Asset Guid="5d24bd263f01f4834b494d91f95ce4c2" AssetBundleName="UI/UISprites/Items/items_435" />
+      <Asset Guid="5d30086e1ad9847a2ab2bebecda4f823" AssetBundleName="UI/UISprites/Items/items_1354" />
+      <Asset Guid="5ea6e45a776e4449d8ec0d6dd5c33ee6" AssetBundleName="DataTables/Map" />
+      <Asset Guid="5f4aed4a570e143bc96572ae1fec1198" AssetBundleName="UI/UISprites/Items/items_1058" />
+      <Asset Guid="5f6c2678e799fbb40b52313c68f1bb2a" AssetBundleName="Sounds/0x23-Ice" />
+      <Asset Guid="601dec7adcd044d0bad978427d0e4e9d" AssetBundleName="UI/UISprites/Items/items_580" />
+      <Asset Guid="60283de1cd53d93449b704d19e4390e3" AssetBundleName="Sounds/0x18-Shot_1" />
+      <Asset Guid="61149c776502f47698bd127397e1a5c1" AssetBundleName="UI/UISprites/Items/items_1091" />
+      <Asset Guid="6136ec95c9514624f85686527fc5cb7f" AssetBundleName="Music/dare" />
+      <Asset Guid="62442776b3c74ab44bf39fbabd45eaf7" AssetBundleName="Sounds/0x1E-Laser_b" />
+      <Asset Guid="632768da3d5f741d59c7c7a0affc25f6" AssetBundleName="Animation/Template/WalkingRight" />
+      <Asset Guid="64258bf300dbbca4da2ae240f5c9ee6d" AssetBundleName="Sounds/0x51-TeleportSent" />
+      <Asset Guid="65c4ca1b47beb4c5ea8330846fc52764" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap14" />
+      <Asset Guid="66c6ece9b08e24528a0038efb6cd9b2c" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap15" />
+      <Asset Guid="66d0c796030344109b9d0409792cc6f1" AssetBundleName="UI/UISprites/Items/items_285" />
+      <Asset Guid="6772a0248bea6425abc0812e0852933f" AssetBundleName="UI/UISprites/Items/items_583" />
+      <Asset Guid="681f9264ab4114b20bb2ac21f58ce37a" AssetBundleName="UI/UISprites/Items/items_506" />
+      <Asset Guid="68cda499e5c954db78436b56340a4bdb" AssetBundleName="UI/UISprites/Items/items_39" />
+      <Asset Guid="6a2b74bebe8384841a4f99979b5b5d43" AssetBundleName="UI/UISprites/Items/items_1000" />
+      <Asset Guid="6ad2ab6630def4da0b8f5e2c16b5fab2" AssetBundleName="UI/UISprites/Items/items_189" />
+      <Asset Guid="6b1af1014bba8234f850bb390a7ea6f4" AssetBundleName="Sounds/0x39-MachineGun_2" />
+      <Asset Guid="6c1639c4362332d4aa3d9223c1591532" AssetBundleName="Sounds/0x50-NA_14_b" />
+      <Asset Guid="6e20ec99b8ac4414ab66fb6eef70df90" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap13" />
+      <Asset Guid="6e3d22b97e4b24fa8a497ff75f687275" AssetBundleName="UI/UISprites/Items/items_1066" />
+      <Asset Guid="6ea824ad12c69493eaacb8cbe5500870" AssetBundleName="UI/UISprites/Items/items_1154" />
+      <Asset Guid="6fde8962b3858477c9e386100c35cf18" AssetBundleName="DataTables/Goods" />
+      <Asset Guid="6ff05c8db96db4efa9da29eaf237c885" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap12" />
+      <Asset Guid="706e25052dde642f797b4fd66ac204a9" AssetBundleName="UI/UISprites/Items/items_23" />
+      <Asset Guid="72717435fa2c64ceaba8e573619f930c" AssetBundleName="Animation/Template/WalkingUp" />
+      <Asset Guid="72f638b939268423eb092232928b8950" AssetBundleName="UI/UISprites/Items/items_381" />
+      <Asset Guid="731d08febc27b4fbbaa017acd163e80a" AssetBundleName="UI/UISprites/Items/items_31" />
+      <Asset Guid="73a4c40ad28584bc38ef16c979ca0390" AssetBundleName="UI/UISprites/Items/items_1158" />
+      <Asset Guid="7538e28aedcf55446b6f7617ba4091d2" AssetBundleName="Sounds/0x2C-NA_4" />
+      <Asset Guid="7651c20a45cde411184ca71739b5fa28" AssetBundleName="UI/UISprites/Items/items_233" />
+      <Asset Guid="78406e2156e904bbe9167c07053bfd03" AssetBundleName="UI/UISprites/Items/items_175" />
+      <Asset Guid="7995be7a0f304fe4e9c317a28bf282fa" AssetBundleName="Sounds/0x28-Escape" />
+      <Asset Guid="7b2baef4f8f0e45a9aae5b681584221b" AssetBundleName="UI/UISprites/Items/items_384" />
+      <Asset Guid="7b60fb10870104db8a86914a86099b83" AssetBundleName="UI/UISprites/Items/items_568" />
+      <Asset Guid="7c812302b868240289d4cb4d5b362772" AssetBundleName="Animation/ChariotRepairman/WalkingLeft" />
+      <Asset Guid="7ca209abc4ce93d498d9c06378f3e68a" AssetBundleName="Music/mm1" />
+      <Asset Guid="7cf8ff4eecde644bf8f989e81df60570" AssetBundleName="Animation/Player/IdleDown" />
+      <Asset Guid="7d41d552d54b7de46831fe77cbdd77b8" AssetBundleName="Sounds/0x52-ATMroll_b" />
+      <Asset Guid="7de64e90fa7e14b64b845bc95c6329e2" AssetBundleName="Animation/Women1/WalkingRight" />
+      <Asset Guid="7df74977f3b45174f9b10fb9048138d5" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownInnFloor2" />
+      <Asset Guid="7e6f21962b6fb794b9ab4d43317a4175" AssetBundleName="Sounds/0x4F-Repair" />
+      <Asset Guid="80b646e210ffe024e9eebb1e1a2c05d8" AssetBundleName="Animation/Salesclerk/WalkingDown" />
+      <Asset Guid="80d87e3e4e1ff8e459163349d50e5dbb" AssetBundleName="Scenes/Test" />
+      <Asset Guid="812106797984d46868a01801b702cb8b" AssetBundleName="UI/UISprites/Items/items_1170" />
+      <Asset Guid="824587339029f4896b5543fa71eb75ad" AssetBundleName="UI/UISprites/Items/items_1410" />
+      <Asset Guid="82dbcfb4512574f1aa1e73f1b2bebe18" AssetBundleName="UI/UISprites/Items/items_282" />
+      <Asset Guid="8333c6da969c3404591c93e958d4e108" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap1" />
+      <Asset Guid="8338e4316d7d14d5996d995165c0ee2d" AssetBundleName="UI/UISprites/Items/items_1138" />
+      <Asset Guid="842efb78ee22c604f89f36e2ee8efd5e" AssetBundleName="Sounds/0x41-Tank" />
+      <Asset Guid="8491c42eeda8645398cc5174001d4314" AssetBundleName="UI/UISprites/Items/items_206" />
+      <Asset Guid="86ad620522bdd4eebb16a294e951ede2" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap16" />
+      <Asset Guid="875b903c994d64da98605051e33cae07" AssetBundleName="UI/UISprites/Items/items_1009" />
+      <Asset Guid="88d13a6415b06e044bf2e1f3718612b1" AssetBundleName="Sounds/0x17-Encounter_s" />
+      <Asset Guid="8b69799dbb4e14cebb7a292150acd838" AssetBundleName="Entities/Characters/Roles/Player" />
+      <Asset Guid="8c950f84d74b0b34484ed02dfcfcf177" AssetBundleName="Sounds/0x21-Rifle" />
+      <Asset Guid="8e9eea895b7824c1e9ce6f8acb3811bf" AssetBundleName="UI/UISprites/Items/items_1019" />
+      <Asset Guid="8eaa31f22e336ab4e89f55e5ae3b25ad" AssetBundleName="Sounds/0x22-Fire" />
+      <Asset Guid="8f9296713967a4c379b087f1aacff336" AssetBundleName="Animation/Women1/WalkingUp" />
+      <Asset Guid="8fd5704c906e1401ea8095c57aaad6ef" AssetBundleName="UI/UISprites/Items/items_637" />
+      <Asset Guid="8fe2377bb20334b05a7da2e083eca5b4" AssetBundleName="UI/UISprites/Items/items_1139" />
+      <Asset Guid="902c7e38ebe27264f92013fe726e6baf" AssetBundleName="Sounds/0x35-Drop" />
+      <Asset Guid="90688f8ce2c4ec943a3884933401d3cc" AssetBundleName="Camera/MainCamera" />
+      <Asset Guid="919e5d09116039a46ae9c35bb17709c6" AssetBundleName="Sounds/0x4E-NA_13" />
+      <Asset Guid="91d01e081d7234af4aea54b53cf43d79" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap2" />
+      <Asset Guid="920e7c13823364659af798604482f760" AssetBundleName="UI/UISprites/Items/items_101" />
+      <Asset Guid="92de369139b594a4e945a1831a6acd87" AssetBundleName="Music/minchi" />
+      <Asset Guid="93a48dac9aaa3e945a046e7743843467" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownHunterUnion" />
+      <Asset Guid="93a89e11a53744465b9662574e67008a" AssetBundleName="UI/UISprites/Items/items_268" />
+      <Asset Guid="946756a30bf8e6146904139d7a4e318f" AssetBundleName="Music/shi2" />
+      <Asset Guid="9530465f6e9cd9f4f953f68f53731672" AssetBundleName="Music/field" />
+      <Asset Guid="9639b8236312f46eba725d4a84ff799f" AssetBundleName="Animation/Women1/IdleUp" />
+      <Asset Guid="9660cea08829a054390f3309b87e3475" AssetBundleName="Sounds/0x1C-Missile_1" />
+      <Asset Guid="9702dcde777e9a742b3cd6b8af162044" AssetBundleName="Sounds/0x2E-Electronic" />
+      <Asset Guid="975e2df831ba2ca4b800140243893034" AssetBundleName="Scenes/Game" />
+      <Asset Guid="978bfd2444bf1b1428ac6839bfc80e69" AssetBundleName="UI/UIForms/SplashForm" />
+      <Asset Guid="9830f6ff7d70d40f8883b5cb8b2734fb" AssetBundleName="Animation/ChariotRepairman/IdleLeft" />
+      <Asset Guid="98814f259d11ee6448861a6e0c239f9a" AssetBundleName="Sounds/0x19-Explosion_Lo" />
+      <Asset Guid="9a282e91ef4f94a7eb1b89afeddf12b3" AssetBundleName="UI/UISprites/Items/items_1160" />
+      <Asset Guid="9a61b9a44dee84dffabe4b03bdd2cbaf" AssetBundleName="UI/UISprites/Items/items_1035" />
+      <Asset Guid="9c096ae4eb27d463d9bcf3e1d6195fe8" AssetBundleName="UI/UISprites/Items/items_346" />
+      <Asset Guid="9c8a526e00edb4ece8924b671fd40a03" AssetBundleName="DataTables/NPC" />
+      <Asset Guid="9cd13e8e99fea4aeb938f73448325887" AssetBundleName="UI/UISprites/Items/items_1109" />
+      <Asset Guid="9d17d7bc203024505bc4007891882063" AssetBundleName="DataTables/Role" />
+      <Asset Guid="9d2377214bde44ed080c9b9cf9c1be89" AssetBundleName="UI/UISprites/Items/items_602" />
+      <Asset Guid="9d2d51bf0fc3dfc42908e3a7a64f4feb" AssetBundleName="Scenes/GameFramework" />
+      <Asset Guid="9db25a7c987b8b444a40a03a50d76026" AssetBundleName="Music/nagare2" />
+      <Asset Guid="9dd6da31c07de5d46a22026b8d301ef9" AssetBundleName="Music/mm_n_noa" />
+      <Asset Guid="9f8487706898c4424a92b64e6414a2fa" AssetBundleName="Animation/Player/AnimatorController" />
+      <Asset Guid="a0799fb95fab149d4b0633c44ec0e53a" AssetBundleName="DataTables/UISound" />
+      <Asset Guid="a2502910ad1494fa0a0ebb525a8058cb" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap11" />
+      <Asset Guid="a258261dd51f74412a6dc04184e0df96" AssetBundleName="UI/UISprites/Items/items_1107" />
+      <Asset Guid="a2936a1667c931c43b3a8f878b864d58" AssetBundleName="Sounds/0x52-ATMroll" />
+      <Asset Guid="a34eacad8d7fd4a0eb76cb8890e2771b" AssetBundleName="UI/UISprites/Items/items_614" />
+      <Asset Guid="a39150db25eef2e4f83f047852624535" AssetBundleName="UI/UISprites/Window/Windows" />
+      <Asset Guid="a3dc9caaace44864ab842e02c252dc9e" AssetBundleName="Sounds/0x3D-Door" />
+      <Asset Guid="a4aa8802ab6eaeb4ba845dceafb61470" AssetBundleName="Sounds/0x1F-NA_1" />
+      <Asset Guid="a55370f37dec3ec43bcbe40a752a10fc" AssetBundleName="Animation/Player/IdleRight" />
+      <Asset Guid="a59f8cbd0364347539a95f24dcfa8993" AssetBundleName="Animation/Template/IdleRight" />
+      <Asset Guid="a5f24d5233c6fd54cadb8021f8bd2be8" AssetBundleName="UI/UIItems/ShopCell" />
+      <Asset Guid="a64d42cd7881f4b59b48607b061d46ce" AssetBundleName="DataTables/HumanEquip" />
+      <Asset Guid="a7417360b2f82224baeea8c64f28a169" AssetBundleName="Sounds/0x46-Shift" />
+      <Asset Guid="a745f8d922fbf4b32a3e80126460f4cb" AssetBundleName="UI/UISprites/Items/items_625" />
+      <Asset Guid="a7ebc86b530a9467d9d2160caf4fe414" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap4" />
+      <Asset Guid="a84bd329b19144b46b2870caa3169580" AssetBundleName="Sounds/0x37-Takeoff" />
+      <Asset Guid="a882520bf091c4e2ea42ddce3110892d" AssetBundleName="UI/UISprites/Items/items_366" />
+      <Asset Guid="a99e1c082eb4c448192a4d5c67ec930d" AssetBundleName="UI/UISprites/Items/items_1385" />
+      <Asset Guid="aa8f395fdb8204d4a8f9f632aa6dc225" AssetBundleName="Entities/Characters/Npcs/Women1" />
+      <Asset Guid="ab2fcaecb4f6e1845afe3f34d8f098ab" AssetBundleName="UI/UIForms/MainForm" />
+      <Asset Guid="acd115e7ca17f4bec83af93bf4844323" AssetBundleName="UI/UISprites/Items/items_345" />
+      <Asset Guid="ad61a9a4c578f7743abb11c199415f85" AssetBundleName="UI/UISprites/Window/StatusBar" />
+      <Asset Guid="adcf30f9e70d445c9bf61e348634903c" AssetBundleName="Animation/Women1/IdleDown" />
+      <Asset Guid="aeaae6d3c6a604b37bbc8f879ed2624b" AssetBundleName="UI/UISprites/Items/items_42" />
+      <Asset Guid="afbfdc20b1253724da04e7823d86943f" AssetBundleName="Animation/Salesclerk/IdleUp" />
+      <Asset Guid="afc8f1fb7d328d04188e0aac3ec91142" AssetBundleName="Sounds/0x31-Broken" />
+      <Asset Guid="b0f7483213b7d4709a3953089df8a49b" AssetBundleName="UI/UISprites/Items/items_383" />
+      <Asset Guid="b1e6f69fa2eec431197e77b37a1ae6ba" AssetBundleName="Animation/Template/IdleLeft" />
+      <Asset Guid="b1ed883632430f2439d70c1adaa179b0" AssetBundleName="Fonts/Font_JCY" />
+      <Asset Guid="b3cd61d19045be04181b1db699e2b5d9" AssetBundleName="Animation/Salesclerk/IdleDown" />
+      <Asset Guid="b426f0e622aec411d9dde5acd6dfb886" AssetBundleName="UI/UISprites/Items/items_414" />
+      <Asset Guid="b46d57fe168c84706b6ac2f08fa927c8" AssetBundleName="UI/UISprites/Items/items_1166" />
+      <Asset Guid="b48b36c0ba4f5294d9081299f46dd217" AssetBundleName="Music/kaeru" />
+      <Asset Guid="b4d341e18faaf4bc1837716842ccde14" AssetBundleName="UI/UISprites/Items/items_21" />
+      <Asset Guid="b521c82cba8ed4053b19d01d1cad3cf2" AssetBundleName="UI/UISprites/Items/items_37" />
+      <Asset Guid="b6b16dc7c8144a745a8c466b921e61d3" AssetBundleName="Sounds/0x44-NA_10" />
+      <Asset Guid="b72c9d971ed06498f8e6a1ab0c589213" AssetBundleName="UI/UISprites/Items/items_77" />
+      <Asset Guid="b7514d16cdaa47e4286971cc607a828e" AssetBundleName="Music/gomesu2" />
+      <Asset Guid="b84d1848368404dbeb0554f9467ae3d5" AssetBundleName="Animation/Template/WalkingDown" />
+      <Asset Guid="ba41b86d1d33b4c518f4e4a910748e4f" AssetBundleName="UI/UISprites/Items/items_90" />
+      <Asset Guid="ba60e945e95424d1e8fb64bb27ebb706" AssetBundleName="Animation/ChariotRepairman/WalkingUp" />
+      <Asset Guid="bb8e040101a1ccd4bb60c75773be902e" AssetBundleName="Sounds/0x17-Encounter" />
+      <Asset Guid="bb9fde273f471a342ae25b3d9de1d8bf" AssetBundleName="Animation/Salesclerk/IdleRight" />
+      <Asset Guid="bcf4c32552638f54e9b99e5111620c34" AssetBundleName="Music/boss2" />
+      <Asset Guid="bdf0110331db34e2cb750a5c39157bdb" AssetBundleName="UI/UISprites/Items/items_1327" />
+      <Asset Guid="be1f7f0123dad4044a4d8043e55ea371" AssetBundleName="UI/UISprites/Items/items_1029" />
+      <Asset Guid="be55c074ec303429ebdcff681f5d9482" AssetBundleName="UI/UISprites/Items/items_983" />
+      <Asset Guid="beef0732289994de18719a17c0d9e7a9" AssetBundleName="UI/UISprites/Items/items_974" />
+      <Asset Guid="bf1d67671f0f5a74a9b32a20e7c2691f" AssetBundleName="Sounds/0x25-Appear" />
+      <Asset Guid="bf3c6f4a327a04984803694c921db70e" AssetBundleName="Animation/Women1/WalkingLeft" />
+      <Asset Guid="bf6d1fa12825d49c5992a59e7fc81564" AssetBundleName="UI/UISprites/Items/items_385" />
+      <Asset Guid="c0bdaee49db231e4d919628b6ac30a6e" AssetBundleName="UI/UISprites/Logos/LogoImage" />
+      <Asset Guid="c1812a19397b3441895b540cfc2632b6" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap3" />
+      <Asset Guid="c226b21de2fb64d5f94772d0463f2e18" AssetBundleName="UI/UISprites/Items/items_952" />
+      <Asset Guid="c385f70898c494b14babec4a3c2f47ef" AssetBundleName="UI/UISprites/Items/items_601" />
+      <Asset Guid="c536962ce1fa44bde9bf7a04edeaa91d" AssetBundleName="UI/UISprites/Items/items_1136" />
+      <Asset Guid="c57349cbc6c0d25408dfcd335d836b6f" AssetBundleName="Music/open" />
+      <Asset Guid="c679e9148c9f2f6469e5620655bdda89" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownPlayerEquip" />
+      <Asset Guid="c7977618c7a1f4d94a87c8473f4906cd" AssetBundleName="UI/UISprites/Items/items_644" />
+      <Asset Guid="c7b8f2b217d2d4b8e97b315e5616cc36" AssetBundleName="Animation/Player/WalkingUp" />
+      <Asset Guid="c81f63d3171354f09ab1a33971b314e8" AssetBundleName="UI/UISprites/Items/items_1165" />
+      <Asset Guid="c990ee1bf719d4420a34c72bbbf3bec8" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap8" />
+      <Asset Guid="cb17f84133c744d69a64535897064a68" AssetBundleName="UI/UISprites/Items/items_43" />
+      <Asset Guid="cc2a92f4d842648e7b56a313c875ca46" AssetBundleName="UI/UISprites/Items/items_202" />
+      <Asset Guid="cdd9ac83bed9f4591badc5043ac81748" AssetBundleName="Animation/ChariotRepairman/IdleDown" />
+      <Asset Guid="ce1c1c72aa364e34980851c9fc6a49dc" AssetBundleName="Sounds/0x2B-Shot_Wave_b" />
+      <Asset Guid="d097a5b03027640a8be16a3a608566cc" AssetBundleName="UI/UISprites/Items/items_1171" />
+      <Asset Guid="d0a1cba75435826408519718c7b09873" AssetBundleName="Sounds/0x54-Defeat" />
+      <Asset Guid="d163b6cb536764cf6af7516a69cce076" AssetBundleName="UI/UISprites/Items/items_201" />
+      <Asset Guid="d23e49d190b09904698e2014b69ac659" AssetBundleName="Music/ai" />
+      <Asset Guid="d24fbbad5a2d84becac085ee4075f2dd" AssetBundleName="UI/UISprites/Items/items_22" />
+      <Asset Guid="d2dcc1660c3455240bf83e03bf4171cf" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownDrMinch" />
+      <Asset Guid="d3c8be1d1186442188ea0117efcd42b2" AssetBundleName="UI/UISprites/Items/items_1161" />
+      <Asset Guid="d3ca741aa27e549868ad8ee78714b778" AssetBundleName="UI/UISprites/Items/items_593" />
+      <Asset Guid="d41525ef3d35c4510affd0189f96ff41" AssetBundleName="UI/UISprites/Items/items_1162" />
+      <Asset Guid="d415ff4d0c04dac47b2d69bebbd0974a" AssetBundleName="Sounds/0x38-Poision" />
+      <Asset Guid="d44cfe721bdc64055b9ac455f8f5b04e" AssetBundleName="UI/UISprites/Items/items_590" />
+      <Asset Guid="d474f12efc7f21444ae9a21cf4d05fd0" AssetBundleName="Music/danjon" />
+      <Asset Guid="d50cf80b2dc284dc7b7779e83781a7a1" AssetBundleName="UI/UISprites/Items/items_1390" />
+      <Asset Guid="d69f69c2564934440bf82c3200f84c1e" AssetBundleName="Music/town" />
+      <Asset Guid="d766fb42ec9610346a84c1efbe93c5b1" AssetBundleName="Sounds/0x3B-Stairs" />
+      <Asset Guid="d7f874f7470b56a4692533e74cbac743" AssetBundleName="Sounds/0x20-NA_2" />
+      <Asset Guid="d8cf959d01b103745b1b55454a13a964" AssetBundleName="Sounds/0x42-NA_9" />
+      <Asset Guid="daf6b1a82d730409384e8629886fc027" AssetBundleName="UI/UISprites/Items/items_176" />
+      <Asset Guid="db0b9012fed594150ae67c0d6d3c8912" AssetBundleName="UI/UISprites/Items/items_1164" />
+      <Asset Guid="db2864a6021c14d2c9ad873659fed603" AssetBundleName="UI/UISprites/Items/items_1017" />
+      <Asset Guid="dd6e9b6be57ba434aa81f17097b06996" AssetBundleName="UI/UISprites/Items/items_1355" />
+      <Asset Guid="dd7b617fcfc7f4b3f9e6d5a5066a792d" AssetBundleName="UI/UISprites/Items/items_205" />
+      <Asset Guid="e01173fc98ec54cc482021b66f879b85" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap5" />
+      <Asset Guid="e136bb51a213247249dcfdbd9b8d9794" AssetBundleName="UI/UISprites/Items/items_1153" />
+      <Asset Guid="e2d6858799c7f4e8ea27476c967fb46a" AssetBundleName="Animation/Player/Dead" />
+      <Asset Guid="e3a83518261a29e47815d2c9d2aabdf4" AssetBundleName="Sounds/0x2B-Shot_Wave" />
+      <Asset Guid="e4a95dafbbe6f454aa23c6187a900dbd" AssetBundleName="Sounds/0x2F-Shot_Acid" />
+      <Asset Guid="e4e6ad65bd5ad394f92172288942cf8c" AssetBundleName="Entities/TileMaps/Town/Laduo/LaduoTownInnFloor1" />
+      <Asset Guid="e51475fe3b9a7b848885f5fedacfd73f" AssetBundleName="Entities/TileMaps/Temp/Temp" />
+      <Asset Guid="e51b00bb1ae4f499abccd36666411328" AssetBundleName="UI/UISprites/Items/items_587" />
+      <Asset Guid="e5c6d29008a0a4e249f7059355d09d6f" AssetBundleName="UI/UISprites/Items/items_1528" />
+      <Asset Guid="e5d6b1470dc814e4abe86eebd281d634" AssetBundleName="UI/UISprites/Items/items_16" />
+      <Asset Guid="e5dfaf136efde467ca0eb5f8fe93e283" AssetBundleName="Animation/ChariotRepairman/WalkingRight" />
+      <Asset Guid="e747c0ae57814b2468adb2450d1df6d1" AssetBundleName="Sounds/0x4B-Earthquake" />
+      <Asset Guid="e868b637efe8a564f90203c9349b5b0b" AssetBundleName="Music/noa" />
+      <Asset Guid="e949f1be0c134464d95441a48c6ef1b2" AssetBundleName="Sounds/0x34-NA_7" />
+      <Asset Guid="e9c6b50ec48fd4dde9a5b172428703b8" AssetBundleName="UI/UISprites/Items/items_347" />
+      <Asset Guid="eb344356d30944139971b3eb9b62fe52" AssetBundleName="UI/UISprites/Items/items_1034" />
+      <Asset Guid="eb66148e5bf900d47afd595f1950c31a" AssetBundleName="Scenes/Battle" />
+      <Asset Guid="ed511ea13952c614abb020e53ef1b3e1" AssetBundleName="Sounds/0x17-Encounter_b" />
+      <Asset Guid="ee9bc33d0b293479c81faf49a98e3641" AssetBundleName="Animation/Template/IdleDown" />
+      <Asset Guid="ef83ed2ef331b97479e6f860ec7074a6" AssetBundleName="Music/tore2" />
+      <Asset Guid="f086772df2f60cf42ac3becbe4d64093" AssetBundleName="Music/mmend" />
+      <Asset Guid="f08e1cf3f43264a55bf886a1daca148f" AssetBundleName="UI/UISprites/Items/items_1167" />
+      <Asset Guid="f1b4c8e59aa504cc8b0ce04660e1d638" AssetBundleName="UI/UISprites/Items/items_505" />
+      <Asset Guid="f23546285e2354634bf6aa71065c0688" AssetBundleName="UI/UISprites/Items/items_975" />
+      <Asset Guid="f2a35666be3b24fef8db22b043d55296" AssetBundleName="DataTables/Scene" />
+      <Asset Guid="f342d610b95ce470ba350ce02e3164ff" AssetBundleName="UI/UISprites/Items/items_1010" />
+      <Asset Guid="f4654eb4e579e4619be0936d649a2780" AssetBundleName="Entities/TileMaps/WorldMap/WorldMap6" />
+      <Asset Guid="f4dcb16ec0b54734da25df27caaaa042" AssetBundleName="Music/7m2" />
+      <Asset Guid="f4e952da8c30f440eb1fcf7af561803f" AssetBundleName="DataTables/Item" />
+      <Asset Guid="f5790c3d97f71f440859ac88e4886a17" AssetBundleName="Sounds/0x17-Encounter_sb" />
+      <Asset Guid="f60e1dd2529e740d098d7dea4804cf4e" AssetBundleName="UI/UISprites/Items/items_1311" />
+      <Asset Guid="f7310ba03d1604c1ba515b10de72d81b" AssetBundleName="UI/UIForms/ItemInfoForm" />
+      <Asset Guid="f84de773502c949fcb584191687bbacb" AssetBundleName="Animation/Player/WalkingRight" />
+      <Asset Guid="f931b1eb8324e944aace520ae67af62c" AssetBundleName="Sounds/0x4D-Shift" />
+      <Asset Guid="fa03d88b1571c9c49a654fdd82a61dc7" AssetBundleName="Sounds/0x1D-Missile_2" />
+      <Asset Guid="fb3fea2289cec42088cb4db29972af0b" AssetBundleName="UI/UISprites/Items/items_95" />
+      <Asset Guid="fb9a7e02603f91348a56418b8ba7f03c" AssetBundleName="Music/tank4" />
+      <Asset Guid="fbc36916442184f1898ac91652173c3e" AssetBundleName="UI/UISprites/Items/items_512" />
+      <Asset Guid="fbd5cd2d5c9d2476e9a70be57bd9f8fa" AssetBundleName="UI/UISprites/Items/items_380" />
+      <Asset Guid="fd47d5d3ff26cf7418b006d19283dc26" AssetBundleName="Sounds/0x30-NA_6" />
+      <Asset Guid="fdfe599ac855a6741a02fe4a80dfdd4f" AssetBundleName="Music/fact" />
+      <Asset Guid="fea1b913a91ed4a86aa6f63759cb9cec" AssetBundleName="Entities/Characters/Npcs/ChariotRepairman" />
+      <Asset Guid="fec9e501a2aa14be3959a7504f386fb5" AssetBundleName="DataTables/Sound" />
+      <Asset Guid="ff18d0984418848d1a0eb4b2c7434041" AssetBundleName="UI/UISprites/Items/items_1173" />
+    </Assets>
+  </AssetBundleCollection>
+</UnityGameFramework>

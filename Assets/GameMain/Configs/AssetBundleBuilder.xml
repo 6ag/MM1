@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <AssetBundleBuilder>
+    <Settings>
+      <InternalResourceVersion>11</InternalResourceVersion>
+      <Platforms>64</Platforms>
+      <ZipSelected>True</ZipSelected>
+      <RecordScatteredDependencyAssetsSelected>False</RecordScatteredDependencyAssetsSelected>
+      <UncompressedAssetBundleSelected>False</UncompressedAssetBundleSelected>
+      <DisableWriteTypeTreeSelected>False</DisableWriteTypeTreeSelected>
+      <DeterministicAssetBundleSelected>True</DeterministicAssetBundleSelected>
+      <ForceRebuildAssetBundleSelected>True</ForceRebuildAssetBundleSelected>
+      <IgnoreTypeTreeChangesSelected>False</IgnoreTypeTreeChangesSelected>
+      <AppendHashToAssetBundleNameSelected>False</AppendHashToAssetBundleNameSelected>
+      <ChunkBasedCompressionSelected>True</ChunkBasedCompressionSelected>
+      <BuildEventHandlerTypeName>MetalMax.Editor.MetalMaxBuildEventHandler</BuildEventHandlerTypeName>
+      <OutputDirectory>/Users/feng/Work/MM1/AB</OutputDirectory>
+    </Settings>
+  </AssetBundleBuilder>
+</UnityGameFramework>

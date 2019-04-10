@@ -1,0 +1,8 @@
+﻿#,NPC属性表,,,,,,,,
+#,Id,,AssetName,NPCType,StoreId,BornPosition,BornAnimation,Conversation,Patrol
+#,int,,string,int,int,string,string,string,bool
+#,实体编号,策划备注,资源名称,NPC类型(1普通 2商店),商店编号,初始位置,初始动画名称,Dialogue System插件中的对话标题,是否巡逻
+,1000,主角他爸爸,Characters/Npcs/ChariotRepairman,1,0,9.5|4.5|0,WalkingUp,LaduoTown/Father,FALSE
+,1001,主角他姐姐,Characters/Npcs/Women1,1,0,7.5|6.5|0,IdleLeft,LaduoTown/Sister,FALSE
+,1002,拉多镇人类装备店销售员,Characters/Npcs/Salesclerk,2,1,1.5|6.5|0,WalkingRight,LaduoTown/EquipSalesclerk,TRUE
+,1003,拉多镇人类工具店销售员,Characters/Npcs/Salesclerk,2,2,8.5|6.5|0,WalkingDown,LaduoTown/ToolSalesclerk,FALSE

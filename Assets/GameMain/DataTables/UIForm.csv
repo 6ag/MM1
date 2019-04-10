@@ -1,0 +1,13 @@
+﻿#,界面配置表,,,,,
+#,Id,,AssetName,UIGroupName,AllowMultiInstance,PauseCoveredUIForm
+#,int,,string,string,bool,bool
+#,界面编号,策划备注,资源名称,界面组名称,是否允许多个界面实例,是否暂停并隐藏被其覆盖的界面
+,1,启动闪屏界面,SplashForm,Default,FALSE,FALSE
+,2,游戏开始界面,GameStartForm,Default,FALSE,FALSE
+,3,游戏主界面,MainForm,Default,FALSE,FALSE
+,4,商店界面,ShopForm,Pop,FALSE,FALSE
+,5,背包界面,KnapsackForm,Pop,FALSE,FALSE
+,6,道具详细信息界面,ItemInfoForm,Pop,FALSE,FALSE
+,7,角色信息界面，包含了角色装备、战车,CharacterForm,Pop,FALSE,FALSE
+,8,输入数量界面,InputCountForm,Pop,FALSE,FALSE
+,9,战斗界面,CombatForm,Pop,FALSE,TRUE

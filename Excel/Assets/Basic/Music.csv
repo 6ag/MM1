@@ -1,0 +1,30 @@
+﻿#,音乐配置表,,
+#,Id,,AssetName
+#,int,,string
+#,音乐编号,策划备注,资源名称
+,1, 7毫米大炮的眼泪,7m2
+,2,Metal Max“爱情主题”,ai
+,3,酒吧主题,bar
+,4,Boss的主题,boss2
+,5,武器店的主题,buki2
+,6,Cave主题,danjon
+,7,谁做过这辆坦克,dare
+,8,地牢舞,doukutsu2
+,9,工厂主题,fact
+,10,野外背景音乐，比如拉多镇出城镇后,field
+,11,戈麦斯的主题,gomesu2
+,12,被扔掉了Hob Reap,hopure3
+,13,青蛙种族主题,kaeru
+,14,医生,minchi
+,15,,mm_n_noa
+,16,,mm1
+,17,战斗主题,mmbat2
+,18,结尾主题,mmend
+,19,花的主题,nagare2
+,20,名称输入主题,name
+,21,Noah的主题,noa
+,22,开场主题,open
+,23,湮灭时的主题,shi2
+,24,坦克,tank4
+,25,交易主题,tore2
+,26,城市主题,town

@@ -1,0 +1,7 @@
+﻿#,角色初始信息表,,,,,,,,,,,,,,,,
+#,Id,,AssetName,Level,CombatLevel,RepairLevel,DriveLevel,HP,Attack,Defense,Strength,Intelligence,Speed,PhysicalPower,Exp,InitEquipIds,InitItemIds
+#,int,,string,int,int,int,int,int,int,int,int,int,int,int,int,string,string
+#,实体编号,策划备注,资源名称,人物等级,战斗等级,修理等级,驾驶等级,生命值,攻击,防御,强度,智力,速度,体力,经验值,初始装备编号,初始道具编号
+,1,雷班纳,Characters/Players/Rebana,1,1,1,1,80,10,17,10,10,20,15,0,10128|10096,10152|10184
+,2,克里夫,Characters/Players/Cliff,1,1,1,1,80,10,17,10,10,20,15,0,10128|10096,10152|10184
+,3,玛格丽特,Characters/Players/Margaret,1,1,1,1,80,10,17,10,10,20,15,0,10128|10096,10152|10184
